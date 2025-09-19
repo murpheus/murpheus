@@ -1,4 +1,6 @@
-<h1>Hi, I'm Abayomi Ayoola!, A passionate Security & Endpoint Engineer with continous experience in Unified Endpoint Management (Intune, JAMF, Kandji, Fleet), Identity & Access Management (Entra ID, Okta, Oracle IAM, AWS IAM, Duo)</h1>
+# Hi, I'm Abayomi Ayoola!
+
+I am a results-oriented Security & Endpoint Engineer with a strong passion for leveraging technology to drive innovation and operational excellence. I offer extensive hands-on experience in Unified Endpoint Management, utilizing platforms such as Microsoft Intune, JAMF, Kandji, and Fleet to streamline device administration, endpoint security and compliance. My expertise also spans Identity & Access Management, with proficiency in Entra ID, Okta, Oracle IAM, AWS IAM, and Duo. I have successfully implemented modern authentication protocols including SAML, OAuth 2.0, and OpenID Connect to enhance enterprise security and user access controls.
 
 <h2> Projects</h2>
 
