@@ -1,8 +1,12 @@
-# Hi, I'm Abayomi Ayoola!
+## Hi, I'm Abayomi Ayoola!
 
-I am a results-oriented Security & Endpoint Engineer with a strong passion for leveraging technology to drive innovation and operational excellence. I offer extensive hands-on experience in Unified Endpoint Management, utilizing platforms such as Microsoft Intune, JAMF, Kandji, and Fleet to streamline device administration, endpoint security and compliance. My expertise also spans Identity & Access Management, with proficiency in Entra ID, Okta, Oracle IAM, AWS IAM, and Duo. I have successfully implemented modern authentication protocols including SAML, OAuth 2.0, and OpenID Connect to enhance enterprise security and user access controls.
+Security Engineer | SOC Analyst | Microsoft 365 Enterprise Engineer | Senior Endpoint Engineer | IAM Analyst - Engineer | 
+---
+I am a results-driven Security & Endpoint Engineer dedicated to harnessing technology to foster innovation and operational efficiency with 9+ years of experience. I possess deep expertise in Unified Endpoint Management, leveraging tools such as Microsoft Intune, JAMF, Kandji, and Fleet to optimize device lifecycle management, strengthen endpoint security, and ensure regulatory compliance. My skill set also encompasses Identity & Access Management, with hands-on proficiency in platforms including Entra ID, Okta, Oracle IAM, AWS IAM, and Duo. I have successfully deployed modern authentication frameworks—SAML, OAuth 2.0, and OpenID Connect—to enhance enterprise security posture and streamline user access across complex environments.
 
-<h2> Projects</h2>
+> _Engineer by title. Cyberwarrior by choice. Mentor by legacy._
+
+## Projects
 
 - <b>Azure / Cloud Cybersecurity Projects</b>
   - [Creating a Live SOC / Honeynet in Azure](https://github.com/BlessingTega/Azure-SOC)
@@ -13,9 +17,9 @@ I am a results-oriented Security & Endpoint Engineer with a strong passion for l
   - [Configuring Azure Tenant-Level Logging And Monitoring](https://github.com/BlessingTega/Configuring-Azure-Tenant-Level-Logging-And-Monitoring)
  
  
- ## Tools
+ ## Technology Stack & Tools
 
-### Identity & Access Management
+### Identity & Access Management (IAM)
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
     <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
