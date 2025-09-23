@@ -25,7 +25,7 @@ Here are some of my notable projects:
 |---------------------------------------------         |----------------------------------------|
 | SOC/Honeynet in Azure                                | <a href="https://github.com/murpheus/AzureSOC"> Live Traffic Monitoring </a>|
 | Monitoring and Detection with EDR                    | <a href="https://github.com/CyberHaack/Incident-Monitoring-and-Detection-with-EDR">SOC Detection Lab</a>|
-| Zero Trust Implementation with Entra ID              | <a href="https://github.com/murpheus/Zero-Trust-Enforcement-with-Conditional-Access-Policies-in-Entra-ID"> ModernIAM </a>|
+| Zero Trust Implementation with Entra ID              | <a href="https://github.com/murpheus/Zero-Trust-Enforcement-with-Conditional-Access-Policies-in-Entra-ID"> Modern IAM </a>|
 | Vulnerability Management with OpenVAS                | <a href="https://github.com/murpheus/Implemented-Vulnerability-Management-with-OpenVAS"> Detecting Vulnerability </a>|
 | Email Security - Exchange Online Protection          | <a href="https://github.com/murpheus/Mail-Flow-Rule-in-Microsoft-Exchange-Online">Email Security</a>|
 | Opta Network Security: Firewall & ACL Configurations | <a href="https://github.com/CyberHaack/Opta-Network-Security"> Network Security Lab</a>| 
@@ -98,15 +98,16 @@ Here are some of my notable projects:
 
 ## 🏆 Certifications  
 
-[![Microsoft SC-200: Security Operations Analyst Associate](https://img.shields.io/badge/Microsoft%20SC--200-Security%20Operations%20Analyst%20Associate-blue?style=for-the-badge&logo=microsoft&logoColor=white)](https://learn.microsoft.com/api/credentials/share/en-us/)  
+[![Microsoft SC-200: Security Operations Analyst Associate](https://img.shields.io/badge/Microsoft%20SC--200-Security%20Operations%20Analyst%20Associate-blue?style=for-the-badge&logo=microsoft&logoColor=white)](#)  
 [![Microsoft Certified: Security, Compliance, and Identity Fundamentals](https://img.shields.io/badge/Microsoft%20SC--900-Security%2C%20Compliance%20%26%20Identity%20Fundamentals-blue?style=for-the-badge&logo=microsoft)](https://www.credly.com/earner/earned/badge/a355ed79-8601-469c-ab50-316ac1f3741b)  
+[![(ISC)2: Certified in Cybersecurity](https://img.shields.io/badge/ISC2-Certified%20in%20Cybersecurity-32cd32?style=for-the-badge&logo=cybersecurity&logoColor=white)](#)  
 [![COMPTIA](https://img.shields.io/badge/COMPTIA-Security+-FF0000?style=for-the-badge&logo=cybersecurity&logoColor=white)](#)  
 [![OCI: Oracle Cloud Infrastructure 2025 Certified Foundations Associate](https://img.shields.io/badge/Oracle-Oracle%20Cloud%20Infrastructure%202025%20Certified%20Foundations%20Associate-FF0000?style=for-the-badge&logo=oracle&logoColor=white)](https://www.credly.com/badges/9e7221e1-373d-4f39-9e81-629a371fc77b/public_url)   
 [![OCI: Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate](https://img.shields.io/badge/Oracle-Oracle%20Cloud%20Infrastructure%202025%20Certified%20AI%20Foundations%20Associate-FF0000?style=for-the-badge&logo=oracle&logoColor=white)](https://catalog-education.oracle.com/pls/certview/sharebadge?id=ED75B5C3515E84AF28A5EB59ADC98504B2F0EE598C4A9DEA31333FD76561F2E5)  
 [![OCI: Oracle Cloud Infrastructure 2025 Certified Architect Associate](https://img.shields.io/badge/Oracle-Oracle%20Cloud%20Infrastructure%202025%20Certified%20Architect%20Associate-FF0000?style=for-the-badge&logo=oracle&logoColor=white)](https://catalog-education.oracle.com/pls/certview/sharebadge?id=8952C8583294FAC34770015D61CCC25F5581FC730B23357BA86CE51E9F9B4132)  
 [![Microsoft Certified: Azure Fundamentals](https://img.shields.io/badge/Microsoft%20AZ--900-Azure%20Fundamentals-blue?style=for-the-badge&logo=microsoft&logoColor=white)](https://www.credly.com/earner/earned/badge/9c511533-89b4-4d36-a3d1-1f3dc6c95cc4)  
 [![Microsoft 365 Certified: Microsoft 365 Fundamentals](https://img.shields.io/badge/Microsoft%20Certified-Microsoft%20365%20Fundamentals-blue?style=for-the-badge&logo=microsoft&logoColor=white)](https://www.credly.com/earner/earned/badge/35ebc56b-3ef0-4f10-9441-5c7f9d602862)  
-[![Microsoft 365 Certified: Microsoft Modern Desktop Administrator](https://img.shields.io/badge/Microsoft%20MD--102-Endpoint%20Administrator%20Associate-blue?style=for-the-badge&logo=microsoft&logoColor=white)](https://www.credly.com/earner/earned/badge/)   
+[![Microsoft 365 Certified: Microsoft Modern Desktop Administrator](https://img.shields.io/badge/Microsoft%20MD--102-Endpoint%20Administrator%20Associate-blue?style=for-the-badge&logo=microsoft&logoColor=white)](#)   
 [![Google Certified: Google Cybersecurity Professional Certificate](https://img.shields.io/badge/Google-Google%20Cybersecurity%20Professional%20Certificate-0000cd?style=for-the-badge&logo=microsoft&logoColor=white)](https://www.credly.com/earner/earned/badge/49d5aa89-e381-44b9-8f9d-8acd37a3efbb)
 
  --- 
