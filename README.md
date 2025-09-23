@@ -30,7 +30,7 @@ Here are some of my notable projects:
 | Email Security - Exchange Online Protection          | <a href="https://github.com/murpheus/Mail-Flow-Rule-in-Microsoft-Exchange-Online">Email Security</a>|
 | Opta Network Security: Firewall & ACL Configurations | <a href="https://github.com/CyberHaack/Opta-Network-Security"> Network Security Lab</a>| 
 
-*For a complete list, check out my [repositories](https://github.com/CyberHaack?tab=repositories).*
+*For a complete list, check out my [repositories](https://github.com/murpheus?tab=repositories).*
 
 ---
 
