@@ -1,6 +1,6 @@
 ## Hi, I'm Abayomi Ayoola!
 
-Security Engineer | SOC Analyst | Microsoft 365 Enterprise Architect | Endpoint Engineer | IAM Engineer | 
+Security Engineer | Microsoft 365 Enterprise Architect | Endpoint Engineer | IAM Engineer | 
 ---
 I am a results-driven Security & Endpoint Engineer dedicated to harnessing technology to foster innovation and operational efficiency with 9+ years of experience. I possess deep expertise in Unified Endpoint Management, leveraging tools such as Microsoft Intune, JAMF, Kandji, and Fleet to optimize device lifecycle management, strengthen endpoint security, and ensure regulatory compliance. My skill set also encompasses Identity & Access Management, with hands-on proficiency in platforms including Entra ID, Okta, Oracle IAM, AWS IAM, and Duo. I have successfully deployed modern authentication frameworks—SAML, OAuth 2.0, and OpenID Connect—to enhance enterprise security posture and streamline user access across complex environments.
 
