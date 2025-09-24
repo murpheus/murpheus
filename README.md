@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Abayomi
+# 👋 whoami, I'm Abayomi
 
 🔐 **Security Engineer** | 🛡️ **SOC Analyst** | 🖥️ **Endpoint Engineer** | 🧠 **M365 Enterprise Architect** | 🖥️ **IAM Engineer** | **AI Agent Enthusiast** 
 
