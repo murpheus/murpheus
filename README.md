@@ -24,7 +24,7 @@ Here are some of my notable projects:
 | Domain                                               |        Associated Project              |
 |---------------------------------------------         |----------------------------------------|
 | SOC/Honeynet in Azure                                | <a href="https://github.com/murpheus/AzureSOC"> Live Traffic Monitoring </a>|
-| Monitoring and Detection with EDR                    | <a href="https://github.com/CyberHaack/Incident-Monitoring-and-Detection-with-EDR">SOC Detection Lab</a>|
+| Monitoring and Detection with EDR                    | <a href="https://github.com/murpheus/Endpoint-Incident-Monitoring-and-Detection-with-EDR">SOC Detection Lab</a>|
 | Zero Trust Implementation with Entra ID              | <a href="https://github.com/murpheus/Zero-Trust-Enforcement-with-Conditional-Access-Policies-in-Entra-ID"> Modern IAM </a>|
 | Vulnerability Management with OpenVAS                | <a href="https://github.com/murpheus/Implemented-Vulnerability-Management-with-OpenVAS"> Detecting Vulnerability </a>|
 | Email Security - Exchange Online Protection          | <a href="https://github.com/murpheus/Mail-Flow-Rule-in-Microsoft-Exchange-Online">Email Security</a>|
